@@ -107,7 +107,7 @@ http://desafio.helpnet.cl/osl
 Se deberá generar una interfaz que con los datos del servicio permita lo siguiente:
 - Seleccionar Organización a la cuál se le desea donar
 - Ingresar los datos de la persona que esta donando (RUT, Nombre, Apellidos, Dirección, Email, Teléfono, Región y País). Estos datos son obligatorios y deben ser validados
-- Según la organización seleccionada la persona deberá elegir el tipo de canal de donación segun los tipos disponibles. Una vez seleccionado el tipo de canal apareceran distintos formaularios. 
+- Según la organización seleccionada la persona deberá elegir el tipo de canal de donación segun los tipos disponibles. Una vez seleccionado el tipo de canal apareceran distintos formularios. 
 
   Transferencia: La persona deberá ingresar los datos de su banco: Nombre Banco, Tipo de cuenta, N° Cuenta, Clave Bancaria
   
